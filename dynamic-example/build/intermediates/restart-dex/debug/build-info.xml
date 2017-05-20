@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="mdpi"
+    format="7"
+    timestamp="20975776844126"
+    token="-6052903211328137291" >
+
+    <task
+        name="javac"
+        duration="2824" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="311" />
+    <task
+        name="verifier"
+        duration="119" />
+
+    <artifact
+        location="C:\qinjiquan\init-data\code-app\zhbj\dynamic-example\build\outputs\apk\dynamic-example-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="20975776844126" >
+        <artifact
+            location="C:\qinjiquan\init-data\code-app\zhbj\dynamic-example\build\outputs\apk\dynamic-example-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

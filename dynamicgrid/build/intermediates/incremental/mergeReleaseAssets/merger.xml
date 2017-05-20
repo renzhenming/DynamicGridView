@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\qinjiquan\init-data\code-app\zhbj\dynamicgrid\assets"/><source path="C:\qinjiquan\init-data\code-app\zhbj\dynamicgrid\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\qinjiquan\init-data\code-app\zhbj\dynamicgrid\src\release\assets"/></dataSet></merger>
